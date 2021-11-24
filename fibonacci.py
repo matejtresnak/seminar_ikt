@@ -1,4 +1,4 @@
-#uživatel zadá n, vypíšeme prvních 5 členů fib posloupnosti
+#uživatel zadá n, vypíšeme prvních n členů fib posloupnosti
 
 a1 = 0
 a2 = 1
