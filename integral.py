@@ -7,6 +7,7 @@ def ObdelnikovaMetoda(a, b):
     hodnota = (b-a)*pow((a+b)/2,2)
     return hodnota
 print(ObdelnikovaMetoda(1, 3))
+print()
 
 def LichobeznikovaMetoda(a, b):
     f_a = VratHodnotu(a)
